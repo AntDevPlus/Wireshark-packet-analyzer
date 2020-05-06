@@ -2,7 +2,7 @@
 ### How does it work ?
 
 - You must have wireshark and pcap installed -> [[wireshark]](https://www.wireshark.org/ "[LINK]")
-- In Wireshark, extrat the packets capture in plain text (.txt).
+- In Wireshark, extract the capture in plain text (.txt).
 [![export](export "export")](http://prntscr.com/sbskzv "export")
 - In the Source.cpp in the var PATH_FILE, pute the pathfile of your capture
 - Run and enjoy !
